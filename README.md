@@ -167,7 +167,7 @@ These are **tunable limits** and can be adjusted without code changes.
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ```bash
 # Clone the repo
